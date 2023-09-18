@@ -12,10 +12,10 @@
 
 <div class="hide">
 
--  [DBMS](./01-dbms)
--  [SQL](./02-sql)
--  [ORM: Sequelize](./03-sequelize)
--  [Authentication](./04-Authentication)
+- [DBMS](./01-dbms)
+- [SQL](./02-sql)
+- [ORM: Sequelize](./03-sequelize)
+- [Authentication](./04-Authentication)
 
 </div>
 
